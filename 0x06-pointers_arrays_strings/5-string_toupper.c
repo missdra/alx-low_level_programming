@@ -1,6 +1,6 @@
 /*
  * File: 5-string_toupper.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Junaid
  */
 
 #include "main.h"
