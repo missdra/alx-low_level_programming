@@ -1,10 +1,9 @@
  #include <studio.h>
   
 /**
+ * main - Print the numbers from 00 to 99
  *
- *main - Print the numbers from 00 to 99
- *
- *Return: Always (Success)
+ * Return: Always (Success)
  */
 int main(viod)
 {
@@ -28,6 +27,7 @@ int main(viod)
 
 		}
 	}
+
 	putchar('\n');
 
 	return(0);
