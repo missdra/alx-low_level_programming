@@ -1,6 +1,6 @@
 /*
  * File: 7-print_chessboard.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Mistura Junaid
  */
 
 #include "main.h"
