@@ -1,6 +1,6 @@
 /*
  * File: 9-set_string.c
- * Auth: Brennan D Baraban
+ * Auth: Modupe Junaid
  */
 
 #include "main.h"
