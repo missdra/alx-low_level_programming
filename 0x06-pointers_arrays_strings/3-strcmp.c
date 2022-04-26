@@ -1,6 +1,6 @@
 /*
  * File: 3-strcmp.c
- * Auth: Gedeon Obae Gekonge
+ * Auth:Modupe Junaid
  */
 
 #include "main.h"
