@@ -1,6 +1,6 @@
 /*
  * File: 6-cap_string.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Junaid
  */
 
 #include "main.h"
