@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: Modupe Junaid
+ * Auth: Modupe junaid
  */
 
 #include <stdio.h>
@@ -23,3 +23,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
