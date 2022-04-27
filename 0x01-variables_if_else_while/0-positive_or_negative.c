@@ -1,5 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
+ * Auth: Modupe Junaid
  */
 
 #include <stdlib.h>
