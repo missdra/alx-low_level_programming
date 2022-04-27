@@ -1,6 +1,6 @@
 /*
  * File: 101-print_number.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Junaid
  */
 
 #include "main.h"

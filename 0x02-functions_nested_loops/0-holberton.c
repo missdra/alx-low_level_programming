@@ -1,6 +1,6 @@
 /*
  * File: 0-holberton.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Junaid
  *
  */
 

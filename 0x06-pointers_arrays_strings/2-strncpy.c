@@ -1,6 +1,6 @@
 /*
  * File: 2-strncpy.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Junaid
  */
 
 #include "main.h"

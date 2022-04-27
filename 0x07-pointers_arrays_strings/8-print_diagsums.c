@@ -1,6 +1,6 @@
 /*
  * File: 8-print_diagsums.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Modupe Mistura Junaid
  */
 
 #include "main.h"
