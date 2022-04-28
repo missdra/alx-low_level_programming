@@ -1,6 +1,6 @@
 /*
- * File: 7-is_palindrome.c
- * Auth: Modupe Junaid
+ * File: 100-is_palindrome.c
+ * Auth: Moduoe Junaid
  */
 
 #include "holberton.h"
