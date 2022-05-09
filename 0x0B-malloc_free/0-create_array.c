@@ -1,23 +1,37 @@
-/*
- * File: 0-malloc_checked.c
- * Auth: Modupe Junaid
- */
-
-#include "holberton.h"
+#include <stdio.h>
 #include <stdlib.h>
-
 /**
- * malloc_checked - Allocates memory using malloc.
- * @b: The number of bytes to be allocated.
+ * *create_array - function that create an array
  *
- * Return: A pointer to the allocated memory.
+ * @size: parameter with the size of the array
+ * @c: element of the array
+ *
+ * Return: Return the value
  */
-void *malloc_checked(unsigned int b)
+char *create_array(unsigned int size, char c)
 {
-	void *mem = malloc(b);
+	char *a;
+	unsigned int i = 0;
 
-	if (mem == NULL)
-		exit(98);
+	a = malloc(sizeof(char) * size);
 
-	return (mem);
+	if (size == 0)
+	{
+		return (0);
+	}
+	else if (a == NULL)
+	{
+		return (0);
+	}
+	else
+	{
+		while (i < size)
+		{
+			a[i] = c;
+			i++;
+		}
+		return (a);
+	}
+
+	return (0);
 }
